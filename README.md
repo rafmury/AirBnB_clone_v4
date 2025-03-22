@@ -155,4 +155,3 @@ No known bugs at this time.
 
 ## Authors
 RAPHAEL KARIUKI - [Github](https://github.com/rafmury)
-Ridwan Abdullahi - [Github](https://github.com/ridhwan497)
